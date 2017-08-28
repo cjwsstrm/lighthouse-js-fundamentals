@@ -3,3 +3,5 @@ function howManyHundreds(num) {
   var x = (num - y) / 100;
   return x;
 }
+
+console.log(howManyHundreds(1000), "=?", 10);

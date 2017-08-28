@@ -1,4 +1,4 @@
-function range(start, end, step) {
+/*function range(start, end, step) {
   var some_array = [];
   if (step > 0 === false || start > end) {
     return(some_array);
@@ -16,7 +16,7 @@ console.log(range(10, 30, 5));
 console.log(range(-5, 2, 3));
 console.log(range(10, 5, 2));
 console.log(range(2, 10, -10))
-
+*/
 
 // Below is the function with 'i is undefined' in the loop
 
@@ -31,3 +31,5 @@ console.log(range(2, 10, -10))
     return(some_array);
   }
 }*/
+
+console.log(math.sum(1, 10));
